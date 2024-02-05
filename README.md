@@ -20,3 +20,15 @@ Este repositorio está diseñado para servir como un recurso integral en el camp
 # Módulo 4
 
 1. Análisis de varianza: En todo proyecto de ciencia de datos, nos encontramos con datos de todo tipo, con el análisis de varianza (ANOVA), aprenderemos a validar hipótesis que involucren variables cuantitativas y variables categóricas al tiempo.
+
+# Disclaimer
+
+Para la realización de este ejercicio se hara uso de 3 bases de datos de Airbnb que estan en formato Excel
+
+- Datos listing: Conjunto de datos referentes a los anuncios de los inmuebles, ubicación urbana, costos de alquiler, métricas de Airbnb y comentarios de los huéspedes entre otros. 
+
+- Datos Calendar: Conjunto de datos monetarios que podemos asociar directamente con los anuncios de la plataforma, muy útil si el interés es cuantitativo.
+
+- Datos reviews: Conjunto de datos referentes a opiniones de distintas publicaciones del huésped o inspector del anuncio, aquí la mayoría de los datos son textos.
+
+
